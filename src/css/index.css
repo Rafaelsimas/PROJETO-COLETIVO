@@ -1,0 +1,36 @@
+body{
+background-color: rgb(123, 167, 150); 
+/*cor para site principal*/
+} 
+
+ 
+
+h2 {   
+    font-family: sans-serif;                     
+  /*alterar fonte do texto cor etc*/      
+}
+img {
+width: 1920px;
+height: 1080px; 
+border: 20px solid brown
+/*mexer na estrutura da imagem*/
+}
+
+header img{ 
+
+    background-image: url(https://wallpapers.com/images/hd/1080p-dragon-7hvq1uww5hvqq14m.jpg);
+/*link de algum site para ser confirmado no html*/
+}
+.imagens  .fotos{
+/*puxando tags .class */
+}
+
+p{font-size: 40px;
+
+}
+ion-icon{
+    font-size: 60px;
+    /*mexer no tamnho da fonte*/
+}
+
+
